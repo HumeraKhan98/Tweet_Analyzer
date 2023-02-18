@@ -1,6 +1,6 @@
 <pre>
-# Tweet_Analyzer
-Using python packages for sentiment analysis of the Russia Vs Ukraine War tweets:
+** Tweet_Analyzer**
+**Using python packages for sentiment analysis of the Russia Vs Ukraine War tweets:**
 1. nltk 
 2. pandas
 3. matplotlib
@@ -8,12 +8,12 @@ Using python packages for sentiment analysis of the Russia Vs Ukraine War tweets
 5. re
 6. string
 
-Dataset has been downloaded from Kaggle:
+**Dataset has been downloaded from Kaggle:**
 https://www.kaggle.com/datasets/towhidultonmoy/russia-vs-ukraine-tweets-datasetdaily-updated?resource=download
 
 #############################
 
-add the below codes into the python file as per the choice:
+**add the below codes into the python file as per the choice:**
 
 1. For viewing most frequently used words in the tweets 
 -------------------------------------------------------
