@@ -1,5 +1,5 @@
 
-** Tweet_Analyzer**
+**Tweet_Analyzer**
 **Using python packages for sentiment analysis of the Russia Vs Ukraine War tweets:**
 1. nltk 
 2. pandas
@@ -14,7 +14,7 @@ https://www.kaggle.com/datasets/towhidultonmoy/russia-vs-ukraine-tweets-datasetd
 #############################
 
 **add the below codes into the python file as per the choice:**
-
+<pre>
 1. For viewing most frequently used words in the tweets 
 -------------------------------------------------------
 text = " ".join(i for i in data.tweet)
@@ -44,3 +44,4 @@ plt.figure( figsize=(15,10))
 plt.imshow(wordcloud, interpolation='bilinear')
 plt.axis("off")
 plt.show()
+</pre>
