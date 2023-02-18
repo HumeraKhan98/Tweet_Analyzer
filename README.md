@@ -1,4 +1,4 @@
-<pre>
+
 ** Tweet_Analyzer**
 **Using python packages for sentiment analysis of the Russia Vs Ukraine War tweets:**
 1. nltk 
@@ -44,4 +44,3 @@ plt.figure( figsize=(15,10))
 plt.imshow(wordcloud, interpolation='bilinear')
 plt.axis("off")
 plt.show()
-</pre>
